@@ -1,4 +1,5 @@
-### Welcome to Worlds Told's Notes Repo
-There's only one file so [here's a link to that for now](StarCitizen/StarCitizenLive/11.27.25-LotsOfShipTalk.md).  
-  
-That's it for now.
+# Welcome to Worlds Told's Notes Repo
+## Inside Star Citzen
+- [Engineering: Talkin' with Thorsten](StarCitizen/InsideStarCitizen/12.04.25-EngineeringTalkinWithThorsten)
+## Star Citizen Live
+- [Lots of Ship Talk](StarCitizen/StarCitizenLive/11.27.25-LotsOfShipTalk.md)
